@@ -1,0 +1,4 @@
+mediapipe==0.9.0.1
+numpy==1.21.5
+opencv_contrib_python==4.7.0.68
+pyserial==3.5
